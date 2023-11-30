@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?DenKomFSD=DenKomFSD" alt="visitor badge"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=700&size=36&pause=1000&color=0AF76E&background=FF1B1B00&center=true&vCenter=true&random=false&width=600&height=75&lines=Hi+There!+%F0%9F%91%8B;My+Name+is+Denis!" alt="Typing SVG" /></a>
 </h1>
