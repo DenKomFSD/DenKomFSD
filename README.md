@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denkomfsd&label=Profile%20views&color=0e75b6&style=flat" alt="denkomfsd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denkomfsd" alt="denkomfsd" /></a> </p>
-<div align="center>
-- 🌱 I’m currently learning **JS, React, Webflow, React Native, Typescrypt**
+
+ 🌱 I’m currently learning **JS, React, Webflow, React Native, Typescrypt**
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-- 💬 Ask me about **HTML, CSS, UI, UX**
-</div>
+ 💬 Ask me about **HTML, CSS, UI, UX**
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
