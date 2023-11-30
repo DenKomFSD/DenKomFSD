@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=700&size=24&pause=1000&color=0AF76E&background=FF1B1B00&center=true&vCenter=true&random=false&width=600&height=75&lines=Hi+There!+%F0%9F%91%8B;My+Name+is+Denis!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=1000&size=36&pause=1000&color=0AF76E&background=FF1B1B00&center=true&vCenter=true&random=false&width=600&height=75&lines=Hi+There!+%F0%9F%91%8B;My+Name+is+Denis!)](https://git.io/typing-svg)
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="goodpic"/>
 
