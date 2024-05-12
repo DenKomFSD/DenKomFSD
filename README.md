@@ -34,6 +34,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denkomfsd&show_icons=true&locale=en&layout=compact" alt="denkomfsd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denkomfsd&" alt="denkomfsd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DenKomFSD&show_icons=true&locale=en&layout=compact" alt="denkomfsd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenKomFSD&" alt="denkomfsd" /></p>
 
